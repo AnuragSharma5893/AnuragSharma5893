@@ -4,7 +4,6 @@
 My name is Anurag Sharma. I am a Sophomore  Student at Mahatma Gandhi mission of College of Engineering and Technology, Noida pursuing my Bachelor of Technology in Computer Science And Engineering. My career vision is to one day be able to Grow up a new community towards future technologies such as AI and ML which  is also my favorite domains and interests. Therefore, I think that pursuing such a career will provide me the opportunities to help improve the community and my passion for my goals and field of Interest. Therefore, I am committed to working had in school and looking for better opportunities that could help me make my goals a reality.
 
 Skills:  REACT / JS / HTML / CSS / Java 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnuragSharma5893)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anurag-sharma-6aa7ab216/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AnuragS06019177)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Itachi_uchiya/)  
 
 
 
