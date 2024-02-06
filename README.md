@@ -1,4 +1,4 @@
-### Hi Guys👋, I am your friend Abacus 
+### Hii!! Guys👋, I am your friend Abacus 
 #### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
 
 As a student pursuing a double major in Computer Science and Psychology, I bring a unique set of skills and perspectives to the table. With a strong foundation in programming languages such as Java and Python, I am able to apply technical solutions to complex problems. Additionally, my background in psychology allows me to understand the human element of these problems, and to approach solutions from a holistic perspective.
