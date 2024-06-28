@@ -1,7 +1,7 @@
 ### Hii!! Guys👋, I am your friend Abacus 
 #### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
 
-As a student pursuing a double major in Computer Science and Psychology, I bring a unique set of skills and perspectives to the table. With a strong foundation in programming languages such as Java and Python, I am able to apply technical solutions to complex problems. Additionally, my background in psychology allows me to understand the human element of these problems, and to approach solutions from a holistic perspective.
+As a student pursuing a double major in Computer Science and Psychology, I bring a unique set of skills and perspectives to the table. With a strong foundation in programming languages such as Java and Python, I can apply technical solutions to complex problems. Additionally, my background in psychology allows me to understand the human element of these problems, and to approach solutions from a holistic perspective.
 
 My passion for computer science stems from a desire to build innovative and impactful software that can make a difference in people's lives. Whether it's developing web applications or creating machine learning models, I am constantly seeking out new challenges and opportunities to learn and grow.
 
@@ -11,7 +11,7 @@ Ultimately, I believe that the intersection of computer science and psychology h
 
 Thank you for visiting my profile, and I look forward to connecting with you!😊
 
-Also my career vision is to one day be able to Grow up a new community towards future technologies such as AI and ML which is also my favorite domains and interests. Therefore,I think that pursuing such a career will provide me the opportunities to help improve the community and my passion for my goals and field of Interest. Therefore, I am committed to working had in school and looking for better opportunities that could help me make my goals a reality.
+Also, my career vision is to one day be able to Grow up a new community towards future technologies such as AI and ML which is also my favorite domains and interests. Therefore,I think that pursuing such a career will provide me the opportunities to help improve the community and my passion for my goals and field of Interest. Therefore, I am committed to working had in school and looking for better opportunities that could help me make my goals a reality.
 
 Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning 
 
@@ -36,5 +36,5 @@ Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning
 ![Profile views](https://gpvc.arturio.dev/Anuragsharma5893)  
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning New technology like AI,ML,and so on... 
-- 📫 How to reach me: You can visit my LinkedIn , twitter also you can e-mail me directly. 
+- 🌱 I’m currently learning New technology like AI, ML, and so on... 
+- 📫 How to reach me: You can visit my LinkedIn and Twitter or e-mail me directly. 
