@@ -17,12 +17,9 @@ Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning
 
 <img src="https://myreadme.vercel.app/api/embed/AnuragSharma5893?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/?username=Itachi_uchiya)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Itachi_uchiya}&animated=true" alt="LeetCode Badges"/>
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Itachi_uchiya}&theme={leaf}" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={Itachi uchiya}" alt="LeetCode Badges"/>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning New technology like AI, ML, and so on... 
