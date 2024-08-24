@@ -7,9 +7,9 @@ Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning
 ![](https://komarev.com/ghpvc/?username=AnuragSharma5893)
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnuragSharma5893)](https://github.com/AnuragSharma5893/github-profile-trophy)
-[![@abacus's Holopin board](https://holopin.io/api/user/board?user=abacus)](https://holopin.io/@abacus)
+<! -- [![@abacus's Holopin board](https://holopin.io/api/user/board?user=abacus)](https://holopin.io/@abacus)
+ -->
 
 
 
