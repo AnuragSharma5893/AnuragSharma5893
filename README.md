@@ -1,8 +1,15 @@
-### <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />  Hope you are doing well, I am your friend Abacus  
-#### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
+  <h1>
+  <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1
+  
+### Hope you are doing well, I am your friend Abacus  
+
+##### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
 
 Thank you for visiting my profile, and I look forward to connecting with you!😊
 Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning 
+
 
 ![](https://komarev.com/ghpvc/?username=AnuragSharma5893)
 
@@ -17,9 +24,10 @@ Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning
 
 <img src="https://myreadme.vercel.app/api/embed/AnuragSharma5893?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/?username=Itachi_uchiya)
+![Leetcode Stats](https://leetcard.jacoblin.cool/?username=Itachi_uchiya)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSharma5893&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Itachi uchiya}" alt="LeetCode Badges"/>
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning New technology like AI, ML, and so on... 
