@@ -10,7 +10,7 @@ Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnuragSharma5893)](https://github.com/AnuragSharma5893/github-profile-trophy)
 <!  [![@abacus's Holopin board](https://holopin.io/api/user/board?user=abacus)](https://holopin.io/@abacus) >
 
-
+<img src="https://myreadme.vercel.app/api/embed/AnuragSharma5893?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning New technology like AI, ML, and so on... 
