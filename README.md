@@ -19,7 +19,7 @@ Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning
 
 ![](https://leetcode-stats-inky.vercel.app/?username=Itachi_uchiya)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=Itachi_uchiya)
+![Leetcode Stats](https://leetcard.jacoblin.cool/?username=Itachi_uchiya)
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning New technology like AI, ML, and so on... 
