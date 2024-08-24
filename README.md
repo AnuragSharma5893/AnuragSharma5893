@@ -8,7 +8,6 @@
 ##### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
 
 Thank you for visiting my profile, and I look forward to connecting with you!😊
-Skills:  REACT / HTML / CSS / JavaScript / Java / Machine Learning 
 
 
 ![](https://komarev.com/ghpvc/?username=AnuragSharma5893)
