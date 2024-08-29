@@ -36,9 +36,6 @@ About Me:
 [![@abacus's Holopin board](https://holopin.io/api/user/board?user=abacus)](https://holopin.io/@abacus) 
 
 <img src="https://myreadme.vercel.app/api/embed/AnuragSharma5893?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnuragSharma5893)](https://github.com/AnuragSharma5893/github-profile-trophy)
-
 
 <h1>
 My Tech Stack:
