@@ -7,38 +7,25 @@
 
 
 
-
-
 ##### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
 
 Thank you for visiting my profile, and I look forward to connecting with you!😊
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning New technology like AI, ML, and so on... 
-- 📫 How to reach me: You can visit my LinkedIn and Twitter or e-mail me directly. 
 
 <h1>
 About Me:  
 </h1>
 
-- I am currently in my final year of Engineering with Computer Science & Engineering branch.
-- I am also in my Second-Year B.A. Psychology(Hons.)
-- Previously, I have worked as a International Research Assistant at of the pristigious CMU lab.
-- I also have experience working on RML hospital as a Undergraduate Research Assistant at a nenotology.  
+- I am currently in my final year of Engineering with the Computer Science & Engineering branch.
+- I am also in my second year B.A. Psychology(Hons.)
+- Previously, I worked as an International Research Assistant at of the prestigious CMU lab.
+- I also have experience working at RML Hospital as an Undergraduate Research Assistant in neonatology.
+- I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
 
 
-
-
-
-
-
-
-[![@abacus's Holopin board](https://holopin.io/api/user/board?user=abacus)](https://holopin.io/@abacus) 
-
-<img src="https://myreadme.vercel.app/api/embed/AnuragSharma5893?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <h1>
-My Tech Stack:
+My Tech Stack:🌱
 </h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,7 +47,7 @@ My Tech Stack:
 ![](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 <h1>
-Connect With me:
+Connect With me:📫
 </h1>
 
 
