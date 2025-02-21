@@ -1,33 +1,21 @@
-  <h1>
-  <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hello There!! My Name is Anurag Sharma
+<h1 align="center"><b>Hi there </b><img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Hello.gif" width="35"></h1>   
+My name is Anurag Sharma, a 4th-year Computer Science & Engineering student. I'm a software engineer and researcher.
 
-  </h1
-
+   
+Seeking **2025** new grad roles in software engineering and always interested to hear about any cool projects you're working on!
 
 
-##### Researcher by ❤️ || Psychologist 🧠and Engineer👨‍💻by Profession
-
-Thank you for visiting my profile, and I look forward to connecting with you!😊
-
-
-<h1>
-About Me:  
-</h1>
-
-- I am currently in my final year of Engineering with the Computer Science & Engineering branch.
-- I am also in my second year B.A. Psychology(Hons.)
-- Previously, I worked as an International Research Assistant at of the prestigious CMU lab.
-- I also have experience working at RML Hospital as an Undergraduate Research Assistant in neonatology.
-- I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
+### About Me 💬:  
+  - I am also in my third year of B.A. Psychology(Hons.)
+  - Previously, I worked as an International **Research Assistant** at the prestigious [CMU lab](https://xulabs.github.io/).
+  - I also have experience working at RML Hospital as an Undergraduate **Research Assistant** in neonatology.
+  - I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
+  - I loved learning new languages until I studied German (A2 Level), and Japanese( in process...).
 
 
 
-<h1>
-My Tech Stack:🌱
-</h1>
-
+### Technologies I used...🛠
+   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,11 +38,7 @@ My Tech Stack:🌱
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h1>
-Connect With me:📫
-</h1>
-
-
+### Connect with me here...📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anurag-sharma-6aa7ab216/)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anu0x7D4)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Itachi_uchiya/)
@@ -63,3 +47,8 @@ Connect With me:📫
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragsharma58693)
 
 
+<!---  ![Visits](https://img.shields.io/badge/Visits-23650-blue) --->
+
+Thank you for visiting my profile, and I look forward to connecting with you!😊
+
+[![Visits Badge](https://badges.pufler.dev/visits/AnuragSharma5893/AnuragSharma5893)](https://badges.pufler.dev)
