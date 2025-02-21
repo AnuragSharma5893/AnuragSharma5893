@@ -47,8 +47,9 @@ Seeking **2025** new grad roles in software engineering and always interested to
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragsharma58693)
 
 
-<!---  ![Visits](https://img.shields.io/badge/Visits-23650-blue) --->
+<!---   --->
 
 Thank you for visiting my profile, and I look forward to connecting with you!😊
 
-[![Visits Badge](https://badges.pufler.dev/visits/AnuragSharma5893/AnuragSharma5893)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/AnuragSharma5893/AnuragSharma5893.git)](https://badges.pufler.dev)
+<!---![Visits](https://img.shields.io/badge/Visits-23650-blue) --->
