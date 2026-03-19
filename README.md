@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hi there </b><img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Hello.gif" width="35"></h1>   
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 My name is Anurag Sharma, Software Development Engineer with a background in Computer Science & Engineering and Psychology. 
 
 
