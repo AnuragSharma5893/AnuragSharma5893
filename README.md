@@ -55,5 +55,10 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
 
 Thank you for visiting my profile, and I look forward to connecting with you!😊
 
+<!-- 
 [![Visits Badge](https://badges.pufler.dev/visits/AnuragSharma5893/AnuragSharma5893.git)](https://badges.pufler.dev)
+ ![visit-count](https://profile-counter.glitch.me/AnuragSharma5893/count.svg)
+ -->
+ 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnuragSharma5893&label=VISITOR&countColor=%23263759)
 <!---![Visits](https://img.shields.io/badge/Visits-23650-blue) --->
