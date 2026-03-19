@@ -1,16 +1,17 @@
 <h1 align="center"><b>Hi there </b><img src="https://github.com/Armanx200/Armanx200/blob/main/assets/Hello.gif" width="35"></h1>   
-My name is Anurag Sharma, a 4th-year Computer Science & Engineering student. I'm a software engineer and researcher.
+My name is Anurag Sharma, Software Development Engineer with a background in Computer Science & Engineering and Psychology. 
+
 
    
-Seeking **2025** new grad roles in software engineering and always interested to hear about any cool projects you're working on!
-
+#### 🚀 Open to exciting opportunities in Software Engineering, AI/ML, and DevOps.
 
 ### About Me 💬:  
-  - I am also in my third year of B.A. Psychology(Hons.)
-  - Previously, I worked as an International **Research Assistant** at the prestigious [CMU lab](https://xulabs.github.io/).
-  - I also have experience working at RML Hospital as an Undergraduate **Research Assistant** in neonatology.
-  - I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
-  - I loved learning new languages until I studied German (A2 Level), and Japanese( in process...).
+  - 🎓 Graduated in B.Tech CSE and B.A. Psychology (Hons.)
+  - 💼 Working as a Software Development Engineer (SDE) with a focus on DevOps, SRE & LLMOps.
+  - 🔬 Previously, I worked as an International **Research Assistant** at the prestigious [CMU lab](https://xulabs.github.io/).
+  - 🏥 I also have experience working at RML Hospital as an Undergraduate **Research Assistant** in neonatology.
+  - 🌍 I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
+  - 🈶 I loved learning new languages until I studied German (A2 Level), and Japanese( in process...).
 
 
 
@@ -36,6 +37,8 @@ Seeking **2025** new grad roles in software engineering and always interested to
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 ### Connect with me here...📫
