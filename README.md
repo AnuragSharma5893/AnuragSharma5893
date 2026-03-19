@@ -60,5 +60,5 @@ Thank you for visiting my profile, and I look forward to connecting with you!ðŸ˜
  ![visit-count](https://profile-counter.glitch.me/AnuragSharma5893/count.svg)
  -->
  
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnuragSharma5893&label=VISITOR&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnuragSharma5893&label=VISITOR&countColor=%23263759&style=plastic&labelStyle=lower)
 <!---![Visits](https://img.shields.io/badge/Visits-23650-blue) --->
