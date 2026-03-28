@@ -55,7 +55,7 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragsharma58693) 
 </p>
 
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anuragsharma5893)  
 
 <!---   --->
 
