@@ -42,10 +42,10 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
 
 
 
-### Connect with me here...📫
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://github.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devarshishimpi" height="30" width="40" /></a>
+<a href="https://github.com/AnuragSharma5893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devarshishimpi" height="30" width="40" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anurag-sharma-6aa7ab216/)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anu0x7D4)
