@@ -4,7 +4,7 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
 
 
    
-#### 🚀 Open to exciting opportunities in Software Engineering, AI/ML, and DevOps.
+#### 🚀 Open to exciting opportunities in Software Engineering, AI/ML, and DevOps. 
 
 ### About Me 💬:  
   - 🎓 Graduated in B.Tech CSE and B.A. Psychology (Hons.)
