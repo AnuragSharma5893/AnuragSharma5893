@@ -1,5 +1,11 @@
-<h1 align="center"><b>Hi there </b><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35"></h1>   
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<h1 align="left"><b>Hey there!!</b><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35"></h1>   
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
+
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
+</picture>
+
 My name is Anurag Sharma, Software Development Engineer with a background in Computer Science & Engineering and Psychology. 
 
 
@@ -7,6 +13,7 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
 #### 🚀 Open to exciting opportunities in Software Engineering, AI/ML, and DevOps. 
 
 ### About Me 💬:  
+
   - 🎓 Graduated in B.Tech CSE and B.A. Psychology (Hons.)
   - 💼 Working as a Software Development Engineer (SDE) with a focus on DevOps, SRE & LLMOps.
   - 🔬 Previously, I worked as an International **Research Assistant** at the prestigious [CMU lab](https://xulabs.github.io/).
@@ -14,6 +21,12 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
   - 🌍 I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
   - 🈶 I loved learning new languages until I studied German (A2 Level), and Japanese( in process...).
 
+
+<picture>
+  <source srcset="assets/underline-white.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="assets/underline-black.svg" media="(prefers-color-scheme: light)">
+  <img src="assets/underline-white.svg" width="600" align="center" alt="—————————————————————————————">
+</picture>
 
 
 ### Technologies I used...🛠
