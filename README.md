@@ -2,8 +2,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
 
 <picture>
-  <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" height="300" src="assets/animation.gif" alt="">
+  <source srcset="" media="(max-width: 900px)" width="1" height="1">
+  <img align="right" width="350" height="350" src="assets/animation.gif" alt="">
 </picture>
 
 My name is Anurag Sharma, Software Development Engineer with a background in Computer Science & Engineering and Psychology. 
