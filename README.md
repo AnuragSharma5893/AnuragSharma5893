@@ -6,7 +6,7 @@
   <img align="right" width="350" height="350" src="assets/animation.gif" alt="">
 </picture>
 
-My name is Anurag Sharma, Software Development Engineer with a background in Computer Science & Engineering and Psychology. 
+My name is Anurag Sharma, a Software Engineer with a background in Computer Science & Engineering and Psychology. 
 
 
    
@@ -14,8 +14,8 @@ My name is Anurag Sharma, Software Development Engineer with a background in Com
 
 ### About Me 💬:  
 
-  - 🎓 Graduated in B.Tech CSE and B.A. Psychology (Hons.)
-  - 💼 Working as a Software Development Engineer (SDE) with a focus on DevOps, SRE & LLMOps.
+  - 🎓 Graduated in Computer Science and B.A. Psychology (Hons.)
+  - 💼 Working as a Software Engineer with a focus on Backend DevOps, SRE & LLMOps.
   - 🔬 Previously, I worked as an International **Research Assistant** at the prestigious [CMU lab](https://xulabs.github.io/).
   - 🏥 I also have experience working at RML Hospital as an Undergraduate **Research Assistant** in neonatology.
   - 🌍 I am more likely Interested in researching the Human Brain, Psychology, LLM, NLP, etc.
